@@ -1,0 +1,5 @@
+Webhooks in GitHub are used to trigger events from GitHub.
+
+There are several actions present like "Pull requests", "Pushes", "PR comments" ..etc
+
+We have to specify the payload URL and select action type and it will automatically sends the request when the action is done.
